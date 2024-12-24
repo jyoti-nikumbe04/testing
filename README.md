@@ -1,2 +1,2 @@
 # testing
- A simple Hello World program in Python
+print("A simple Hello World program in Python")
